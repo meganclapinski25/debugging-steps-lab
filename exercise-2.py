@@ -6,13 +6,18 @@ Exercise 2
 #
 # TODO: Gather information about the source of the error and paste your findings here. E.g.:
 # - What is the expected vs. the actual output?
+## - Expected output would be False and True. THe acutal output was False and False 
 # - What error message (if any) is there?
+## - No Error Message 
 # - What line number is causing the error?
+## - Line 28  
 # - What can you deduce about the cause of the error?
-
+## - since the return statement is inside the for loop, it will really wont loop through all test cases. 
+## If the first 3 numbers are not increasing by 1, it will assume the loop / list is done. 
 
 # PART 2: State Assumptions
-#
+# The author thought the for loop would check every group of 3 elements in the list. 
+# Thought the else statement would only be called at the end of list
 # TODO: State your assumptions here or say them out loud to your partner ...
 # Make sure to be SPECIFIC about what each of your assumptions is!
 

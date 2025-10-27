@@ -12,6 +12,7 @@ Exercise 3
 # IndexError: list index out of range 
 # TODO: Gather information about the source of the error and paste your findings here. E.g.:
 # - What is the expected vs. the actual output?
+
 # - What error message (if any) is there?
 ## - list index out of range 
 # - What line number is causing the error?

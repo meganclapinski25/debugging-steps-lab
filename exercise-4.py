@@ -26,7 +26,7 @@ Exercise 4
 ## - 49 and 52
 # - What can you deduce about the cause of the error?
 ## - The call reuses "mid" over and over again, so the loop doesn't go from low, mid and mid, high. 
-## - 
+
 
 # PART 2: State Assumptions
 #  -- The author assumed that the use of low, mid and mid, high would be the correct window in search for the elements 

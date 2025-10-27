@@ -18,7 +18,6 @@ Exercise 4
 # HINT: It may help to draw a picture to clarify what your assumptions are.
 
 def binary_search(arr, element, low=0, high=None):
-      """Returns the index of the given element within the array by performing a binary search."""
     if high == None:
         high = len(arr) - 1
 
